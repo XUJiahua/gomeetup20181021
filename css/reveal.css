@@ -516,6 +516,7 @@ body {
 
 .reveal .slides > section,
 .reveal .slides > section > section {
+  text-align:left;
   display: none;
   position: absolute;
   width: 100%;
